@@ -1,4 +1,5 @@
 # ui-automation-suite
+Designed to demonstrate real-world automation engineering practices including maintainable framework design, test reliability strategies, and CI integration.
 UI automation framework built using Python, Selenium, and Pytest to validate core user flows of a sample web application.
 
 This project demonstrates clean framework architecture, maintainability principles, and CI-ready automation practices.
