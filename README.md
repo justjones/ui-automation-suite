@@ -33,5 +33,5 @@ Designed to be cloned and extended for real projects with clean architecture, st
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ui-automation-suite.git
+git clone https://github.com/justjones/ui-automation-suite.git
 cd ui-automation-suite
